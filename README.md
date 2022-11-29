@@ -1,2 +1,3 @@
-# External-parameter-calculation-of-lidar-camera
-Platform and verification algorithm of radar and camera external parameter calibration based on ros
+# Indoor environment perception scheme based on mobile robot
+Indoor environment perception based on mobile robot
+
