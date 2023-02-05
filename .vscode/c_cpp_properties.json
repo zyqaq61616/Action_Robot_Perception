@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/zyq/work_space/cpp_ws/action_ws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/zyq/work_space/cpp_ws/action_ws/src/action_base/include/**",
+                "/home/zyq/work_space/cpp_ws/action_ws/src/action_control/include/**",
+                "/home/zyq/work_space/cpp_ws/action_ws/src/action_localization/include/**",
+                "/home/zyq/work_space/cpp_ws/action_ws/src/action_msg/include/**",
+                "/home/zyq/work_space/cpp_ws/action_ws/src/action_perception/include/**",
+                "/home/zyq/work_space/cpp_ws/action_ws/src/action_planning/include/**",
+                "/home/zyq/work_space/cpp_ws/action_ws/src/detection_2d/include/**",
+                "/usr/include/**",
+                "/opt/ros/noetic/include",
+                "/home/zyq/work_space/cpp_ws/action_ws/devel/include",
+                "/home/zyq/work_space/cpp_ws/action_ws/src/action_node/include",
+                "/usr/local/cuda-11.4/include/**",
+                "${workspaceFolder}/action_perception/include",
+                "${workspaceFolder}/action_base/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
